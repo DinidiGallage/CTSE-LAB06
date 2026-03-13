@@ -38,7 +38,7 @@ Start Kafka so it is reachable at `localhost:9092` before running services.
 
 You can use any Kafka setup you prefer. If you already have Kafka running, skip this step.
 
-## Start All Services (Manual)
+## Start All Services
 
 Open 4 terminals from the project root and run each service:
 
